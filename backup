@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>My Resume</title>
+</head>
+<body>
+    <h1 class="primary-header">Hi, wlecome to my simple <em>resume</em> page
+        </h1>
+      <div class="showcase">
+        
+          <img src="files/img/2.png" alt="my picture">
+          <h4>Shayan Ghani</h4>
+      </div>
+      
+    
+      <!-- <h2 class="secondary-header">Here's my resume click <a class="resume-link" href="files/Shayan's Resume.pdf">this</a> link to download the file.</h2> -->
+      <h2 class="secondary-header">Here's my resume click <a class="resume-link" href="files/nemoone kar tasviirii.rar">this</a> link to download the file.</h2>
+          <!-- <iframe src="Shayan's Resume_7.pdf" width="100%" height="300" style="border:1px solid #333;" title="My resume 'Shayan Ghani'"> -->
+</body>
+</html>
