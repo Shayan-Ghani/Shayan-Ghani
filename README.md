@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Shayan-Ghani
 - 👀 I used to be a Front-end developer.
-- 🌱 I’ve been learning DevOps for two years.
-- 📫 You can check out my linkedin account via www.linkedin.com/in/dev-shayan-ghani and Email me using shayanghani1384@gmail.com.
-<!---
-Shayan-Ghani/Shayan-Ghani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’ve been learning DevOps for a few years.
+- 👨‍💻 An eager 17-year-old junior, absorbed in learning more everyday.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-shayan-ghani)
+[![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:shayanghani1384@gmail.com)
