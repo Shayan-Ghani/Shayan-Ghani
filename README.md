@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shayan-Ghani
 - 👀 I used to be a Front-end developer.
-- 🌱 I’ve been learning DevOps for a few years.
+- 🌱 I’ve been learning DevOps for approximately 2 years.
 - 👨‍💻 An eager 17-year-old junior who is absorbed in learning more everyday.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-shayan-ghani)
